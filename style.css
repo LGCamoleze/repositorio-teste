@@ -1,0 +1,54 @@
+
+.cabecalho-loja{
+    background-color: rgb(226, 76, 189);
+    padding: 15px;
+    border-bottom: 5px solid rgb(233, 220, 230);
+   border-radius: 10px;
+   text-align: center;
+}
+
+.tipo{
+background-color: rgb(247, 104, 211);
+text-align: center;
+border-radius: 10px;
+box-shadow: 0 2px 10px black ;
+
+}
+
+.imagem {
+    text-align: center;
+    background-color: rgb(253, 184, 233);
+    border-radius: 10px;
+    box-shadow: 0 2px 10px black ;
+    padding: 20px;
+    gap: 20px;
+}
+
+.rodapé-blog {
+    background-color: rgb(247, 104, 211);
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px black ;
+
+    
+}
+
+.especificações {
+    text-align: center;
+    background-color: rgb(247, 104, 211);
+    border-radius: 10px;
+    box-shadow: 0 2px 10px black ;
+    justify-content: space-between;
+    flex: 1 1 400px; 
+    flex-wrap: wrap;
+    
+
+}
+
+.tabela {
+    display: flex;
+    align-items: center;
+    background-color: rgb(247, 104, 211);
+    border-radius: 10px;
+    box-shadow: 0 2px 10px black ;
+}
